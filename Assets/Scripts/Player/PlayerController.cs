@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
     public bool playerIsGrounded;
     public LayerMask whatIsGround;
     public Vector2 groundBoxSize = new Vector2(0.8f,0.2f);
+    public float sprintMultiplier = 2f;
     
     private InputActions _input;
     private Rigidbody2D _rigidbody2D;
@@ -35,8 +36,8 @@ public class PlayerController : MonoBehaviour
         {
             if (jumpTimer > 0)
             {
-                
-            } 
+                _rigidbody2D.linearVelocityY = jumpSpeed * Mathf.Sign(Physics2D.gravity.y) *-1;
+            }
         }
     }
 
@@ -48,6 +49,13 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        _rigidbody2D.linearVelocityX = _input.Horizontal * moveSpeed;
+        if (_input.Sprint)
+        {
+            _rigidbody2D.linearVelocityX = _input.Horizontal * moveSpeed * sprintMultiplier;
+        }
+        else
+        {
+            _rigidbody2D.linearVelocityX = _input.Horizontal * moveSpeed;
+        }
     }
 }

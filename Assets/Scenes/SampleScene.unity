@@ -868,8 +868,24 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5056077917683032467, guid: 7e212eed17b7903dc84a3011a0d367b5, type: 3}
+      propertyPath: jumpTime
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5056077917683032467, guid: 7e212eed17b7903dc84a3011a0d367b5, type: 3}
+      propertyPath: sprintMultiplier
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5056077917683032467, guid: 7e212eed17b7903dc84a3011a0d367b5, type: 3}
       propertyPath: whatIsGround.m_Bits
       value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5117623326774739040, guid: 7e212eed17b7903dc84a3011a0d367b5, type: 3}
+      propertyPath: Jump
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5117623326774739040, guid: 7e212eed17b7903dc84a3011a0d367b5, type: 3}
+      propertyPath: Attack
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7834986917958008491, guid: 7e212eed17b7903dc84a3011a0d367b5, type: 3}
       propertyPath: m_Constraints
@@ -890,7 +906,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1721590842323621350, guid: fc26c49746c3a9abeba584313eb94787, type: 3}
       propertyPath: gravitySwitchTime
-      value: 2
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 2864524275355102078, guid: fc26c49746c3a9abeba584313eb94787, type: 3}
       propertyPath: m_Name

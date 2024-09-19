@@ -9,13 +9,14 @@ public class InputActions : MonoBehaviour
 
     [SerializeField]
     public bool Jump;
-    public bool Attack;
+    public bool Sprint;
     public bool Interact;
 
     private void Update()
     {
         Horizontal = _inputSystem.Player.Move.ReadValue<Vector2>().x;
         Jump = _inputSystem.Player.Jump.WasPressedThisFrame();
+        Sprint = _inputSystem.Player.Sprint.IsPressed();
     }
 
     private void Awake() { _inputSystem = new InputSystem_Actions(); }

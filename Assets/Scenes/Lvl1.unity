@@ -270,9 +270,69 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 691604197522417176, guid: a5c334350ad6a9d478c4d32bad30e45e, type: 3}
+      propertyPath: m_fontSize
+      value: 56
+      objectReference: {fileID: 0}
+    - target: {fileID: 691604197522417176, guid: a5c334350ad6a9d478c4d32bad30e45e, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 14a3dacdab4d139488b2961d69034f6a, type: 2}
+    - target: {fileID: 691604197522417176, guid: a5c334350ad6a9d478c4d32bad30e45e, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 56
+      objectReference: {fileID: 0}
+    - target: {fileID: 691604197522417176, guid: a5c334350ad6a9d478c4d32bad30e45e, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 7792971705931524739, guid: 14a3dacdab4d139488b2961d69034f6a, type: 2}
+    - target: {fileID: 691604197522417176, guid: a5c334350ad6a9d478c4d32bad30e45e, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1971163758685614409, guid: a5c334350ad6a9d478c4d32bad30e45e, type: 3}
       propertyPath: m_Name
       value: FlowerCountUI
+      objectReference: {fileID: 0}
+    - target: {fileID: 3927332098900385100, guid: a5c334350ad6a9d478c4d32bad30e45e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -272.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3927332098900385100, guid: a5c334350ad6a9d478c4d32bad30e45e, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -190.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5432731982892508011, guid: a5c334350ad6a9d478c4d32bad30e45e, type: 3}
+      propertyPath: m_text
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5432731982892508011, guid: a5c334350ad6a9d478c4d32bad30e45e, type: 3}
+      propertyPath: m_fontSize
+      value: 55
+      objectReference: {fileID: 0}
+    - target: {fileID: 5432731982892508011, guid: a5c334350ad6a9d478c4d32bad30e45e, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 14a3dacdab4d139488b2961d69034f6a, type: 2}
+    - target: {fileID: 5432731982892508011, guid: a5c334350ad6a9d478c4d32bad30e45e, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 55
+      objectReference: {fileID: 0}
+    - target: {fileID: 5432731982892508011, guid: a5c334350ad6a9d478c4d32bad30e45e, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 7792971705931524739, guid: 14a3dacdab4d139488b2961d69034f6a, type: 2}
+    - target: {fileID: 5432731982892508011, guid: a5c334350ad6a9d478c4d32bad30e45e, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6176002997073075879, guid: a5c334350ad6a9d478c4d32bad30e45e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 330.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6176002997073075879, guid: a5c334350ad6a9d478c4d32bad30e45e, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 193.9
       objectReference: {fileID: 0}
     - target: {fileID: 6608586395983392341, guid: a5c334350ad6a9d478c4d32bad30e45e, type: 3}
       propertyPath: m_Pivot.x

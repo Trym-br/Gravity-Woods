@@ -15,7 +15,7 @@ public class InputActions : MonoBehaviour
     private void Update()
     {
         Horizontal = _inputSystem.Player.Move.ReadValue<Vector2>().x;
-        Jump = _inputSystem.Player.Jump.WasPressedThisFrame();
+        Jump = _inputSystem.Player.Jump.IsPressed();
         Sprint = _inputSystem.Player.Sprint.IsPressed();
     }
 

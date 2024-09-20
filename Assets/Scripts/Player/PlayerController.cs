@@ -14,7 +14,9 @@ public class PlayerController : MonoBehaviour
     private InputActions _input;
     private Rigidbody2D _rigidbody2D;
 
+    [SerializeField]
     private bool isJumping;
+    [SerializeField]
     private float jumpTimer;
     public float jumpTime;
 
@@ -30,14 +32,26 @@ public class PlayerController : MonoBehaviour
 
         if (_input.Jump && playerIsGrounded)
         {
+            isJumping = true;
+            jumpTimer = jumpTime;
             _rigidbody2D.linearVelocityY = jumpSpeed * Mathf.Sign(Physics2D.gravity.y) *-1;
         }
-        else if (isJumping && _input.Jump)
+        if (isJumping && _input.Jump)
         {
             if (jumpTimer > 0)
             {
                 _rigidbody2D.linearVelocityY = jumpSpeed * Mathf.Sign(Physics2D.gravity.y) *-1;
+                jumpTimer -= Time.deltaTime;
             }
+            else
+            {
+                isJumping = false;
+            }
+        }
+
+        if (!_input.Jump)
+        {
+            isJumping = false;
         }
     }
 

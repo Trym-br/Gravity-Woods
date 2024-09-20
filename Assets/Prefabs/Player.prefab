@@ -173,6 +173,8 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 0
   groundBoxSize: {x: 0.8, y: 0.2}
+  sprintMultiplier: 0
+  jumpTime: 0
 --- !u!114 &5117623326774739040
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -187,5 +189,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Horizontal: 0
   Jump: 0
-  Attack: 0
+  Sprint: 0
   Interact: 0

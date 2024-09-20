@@ -44,5 +44,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5173f8014bcbf8f7d8c35c1404815e41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gravitySwitchTime: 10
+  gravitySwitchTime: 30
   gravityTimer: 0

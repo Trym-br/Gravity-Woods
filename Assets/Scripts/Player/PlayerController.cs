@@ -1,5 +1,5 @@
+using TMPro;
 using UnityEngine;
-using UnityEngine.UIElements;
 
 public class PlayerController : MonoBehaviour
 {
@@ -16,6 +16,9 @@ public class PlayerController : MonoBehaviour
     private Animator _animator;
     private AudioSource _audioSource;
     private SpriteRenderer _spriteRenderer;
+    
+    [Header("Text")]
+    public TMP_Text flowersText;
 
     [SerializeField]
     private bool isJumping;
@@ -28,6 +31,10 @@ public class PlayerController : MonoBehaviour
     
     [Header("Audio")]
     public AudioClip jumpSound;
+    public AudioClip flowerPickupSound;
+    
+    [Header("Collectables")]
+    private int flowersCollected = 0;
 
 
     private void Start()
@@ -68,6 +75,7 @@ public class PlayerController : MonoBehaviour
             isJumping = false;
         }
         
+        flowersText.text = flowersCollected.ToString();
         
         UpdateAnimation();
     }
@@ -137,5 +145,15 @@ public class PlayerController : MonoBehaviour
         }
         
         
+    }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Flower"))
+        {
+            flowersCollected++;
+            _audioSource.PlayOneShot(flowerPickupSound);
+            Destroy(other.gameObject);
+        }
     }
 }

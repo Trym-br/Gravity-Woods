@@ -8,6 +8,8 @@ public class GravityController : MonoBehaviour
     
     private PlayerController _playerController;
     
+    public AudioClip gravitySwitchSound;
+    
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -25,6 +27,7 @@ public class GravityController : MonoBehaviour
             Physics2D.gravity *= -1;
             gravityTimer = gravitySwitchTime;
             _playerController.isUpsideDown = !_playerController.isUpsideDown; // Sets the players upside down status to the opposite
+            _playerController.GetComponent<AudioSource>().PlayOneShot(gravitySwitchSound);
         }
     }
 }

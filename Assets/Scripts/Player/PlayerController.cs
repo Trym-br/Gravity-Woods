@@ -13,17 +13,28 @@ public class PlayerController : MonoBehaviour
     
     private InputActions _input;
     private Rigidbody2D _rigidbody2D;
+    private Animator _animator;
+    private AudioSource _audioSource;
 
     [SerializeField]
     private bool isJumping;
+    
     [SerializeField]
     private float jumpTimer;
     public float jumpTime = 0.5f;
+    
+    public bool isUpsideDown;
+    
+    [Header("Audio")]
+    public AudioClip jumpSound;
+
 
     private void Start()
     {
         _input = GetComponent<InputActions>();
         _rigidbody2D = GetComponent<Rigidbody2D>();
+        _animator = GetComponent<Animator>();
+        _audioSource = GetComponent<AudioSource>();
     }
 
     private void Update()
@@ -35,6 +46,7 @@ public class PlayerController : MonoBehaviour
             isJumping = true;
             jumpTimer = jumpTime;
             _rigidbody2D.linearVelocityY = jumpSpeed * Mathf.Sign(Physics2D.gravity.y) *-1;
+            _audioSource.PlayOneShot(jumpSound); // Playing Jump Sound
         }
         if (isJumping && _input.Jump)
         {
@@ -53,6 +65,9 @@ public class PlayerController : MonoBehaviour
         {
             isJumping = false;
         }
+        
+        
+        UpdateAnimation();
     }
 
     private void OnDrawGizmos()
@@ -71,5 +86,54 @@ public class PlayerController : MonoBehaviour
         {
             _rigidbody2D.linearVelocityX = _input.Horizontal * moveSpeed;
         }
+    }
+
+    private void UpdateAnimation()
+    {
+        // Animations
+        if (playerIsGrounded)
+        {
+            if (_input.Horizontal != 0)
+            {
+                _animator.Play("Player_Walk");
+            }
+            else
+            {
+                _animator.Play("Player_Idle");
+            }
+        }
+        else
+        {
+            if (_rigidbody2D.linearVelocityY > 0)
+            {
+                _animator.Play("Player_Jump");
+            }
+            
+            
+        }
+        
+        // Sprite facing
+        if (_input.Horizontal != 0)
+        {
+            if (_input.Horizontal < 0) // Fix when upside down
+            {
+                GetComponent<SpriteRenderer>().flipX = true;
+            }
+            else
+            {
+                GetComponent<SpriteRenderer>().flipX = false;
+            }
+        }
+
+        if (isUpsideDown)
+        {
+            GetComponent<SpriteRenderer>().flipY = true;
+        }
+        else
+        {
+            GetComponent<SpriteRenderer>().flipY = false;
+        }
+        
+        
     }
 }

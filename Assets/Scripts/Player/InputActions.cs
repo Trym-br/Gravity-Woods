@@ -11,6 +11,7 @@ public class InputActions : MonoBehaviour
     public bool Jump;
     public bool Sprint;
     public bool Interact;
+    
 
     private void Update()
     {

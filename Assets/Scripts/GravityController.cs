@@ -3,6 +3,7 @@ using UnityEngine;
 using System.Collections;
 using System.Globalization;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class GravityController : MonoBehaviour
 {
@@ -13,8 +14,12 @@ public class GravityController : MonoBehaviour
     private AudioSource _audioSource;
 
     public TMP_Text gravityChangeText;
-    
-    
+
+    private void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -33,5 +38,10 @@ public class GravityController : MonoBehaviour
             gravityTimer = gravitySwitchTime;
             _audioSource.PlayOneShot(gravitySwitchSound);
         }
+    }
+
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        Physics2D.gravity = new Vector3(0f,-9.8f,0f);
     }
 }

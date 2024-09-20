@@ -15,6 +15,7 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D _rigidbody2D;
     private Animator _animator;
     private AudioSource _audioSource;
+    private SpriteRenderer _spriteRenderer;
 
     [SerializeField]
     private bool isJumping;
@@ -35,6 +36,7 @@ public class PlayerController : MonoBehaviour
         _rigidbody2D = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();
         _audioSource = GetComponent<AudioSource>();
+        _spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     private void Update()
@@ -117,21 +119,21 @@ public class PlayerController : MonoBehaviour
         {
             if (_input.Horizontal < 0) // Fix when upside down
             {
-                GetComponent<SpriteRenderer>().flipX = true;
+                _spriteRenderer.flipX = true;
             }
             else
             {
-                GetComponent<SpriteRenderer>().flipX = false;
+                _spriteRenderer.flipX = false;
             }
         }
 
         if (isUpsideDown)
         {
-            GetComponent<SpriteRenderer>().flipY = true;
+            _spriteRenderer.flipY = true;
         }
         else
         {
-            GetComponent<SpriteRenderer>().flipY = false;
+            _spriteRenderer.flipY = false;
         }
         
         

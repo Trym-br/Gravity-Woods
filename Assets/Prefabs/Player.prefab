@@ -146,7 +146,7 @@ MonoBehaviour:
   jumpTime: 0.5
   isUpsideDown: 0
   jumpSound: {fileID: 8300000, guid: 07dd912edacd74e46894a438825facc1, type: 3}
-  flowerPickupSound: {fileID: 0}
+  flowerPickupSound: {fileID: 8300000, guid: a6ae362de134c83498d2c1eb8f423491, type: 3}
 --- !u!114 &5117623326774739040
 MonoBehaviour:
   m_ObjectHideFlags: 0

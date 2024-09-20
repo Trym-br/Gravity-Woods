@@ -1,5 +1,8 @@
+using System;
 using UnityEngine;
 using System.Collections;
+using System.Globalization;
+using TMPro;
 
 public class GravityController : MonoBehaviour
 {
@@ -9,6 +12,8 @@ public class GravityController : MonoBehaviour
     private PlayerController _playerController;
     
     public AudioClip gravitySwitchSound;
+
+    public TMP_Text gravityChangeText;
     
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -22,12 +27,14 @@ public class GravityController : MonoBehaviour
     void Update()
     {
         gravityTimer -= Time.deltaTime;
+        gravityChangeText.text = Math.Round(gravityTimer).ToString();
         if (gravityTimer < 0)
         {
             Physics2D.gravity *= -1;
             gravityTimer = gravitySwitchTime;
             _playerController.isUpsideDown = !_playerController.isUpsideDown; // Sets the players upside down status to the opposite
             _playerController.GetComponent<AudioSource>().PlayOneShot(gravitySwitchSound);
+            
         }
     }
 }

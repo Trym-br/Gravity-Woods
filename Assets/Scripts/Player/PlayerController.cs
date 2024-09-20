@@ -4,7 +4,7 @@ using UnityEngine.UIElements;
 public class PlayerController : MonoBehaviour
 {
     public float moveSpeed = 5f;
-    public float jumpSpeed = 7f;
+    public float jumpSpeed = 4f;
  
     public bool playerIsGrounded;
     public LayerMask whatIsGround;
@@ -18,7 +18,7 @@ public class PlayerController : MonoBehaviour
     private bool isJumping;
     [SerializeField]
     private float jumpTimer;
-    public float jumpTime;
+    public float jumpTime = 0.5f;
 
     private void Start()
     {

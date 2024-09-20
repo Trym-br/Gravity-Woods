@@ -140,11 +140,13 @@ MonoBehaviour:
     m_Bits: 8
   groundBoxSize: {x: 0.8, y: 0.2}
   sprintMultiplier: 2
+  flowersText: {fileID: 0}
   isJumping: 0
   jumpTimer: 0
   jumpTime: 0.5
   isUpsideDown: 0
   jumpSound: {fileID: 8300000, guid: 07dd912edacd74e46894a438825facc1, type: 3}
+  flowerPickupSound: {fileID: 0}
 --- !u!114 &5117623326774739040
 MonoBehaviour:
   m_ObjectHideFlags: 0

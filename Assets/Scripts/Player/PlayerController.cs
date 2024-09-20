@@ -1,10 +1,10 @@
+using TMPro;
 using UnityEngine;
-using UnityEngine.UIElements;
 
 public class PlayerController : MonoBehaviour
 {
     public float moveSpeed = 5f;
-    public float jumpSpeed = 7f;
+    public float jumpSpeed = 4f;
  
     public bool playerIsGrounded;
     public LayerMask whatIsGround;
@@ -13,17 +13,37 @@ public class PlayerController : MonoBehaviour
     
     private InputActions _input;
     private Rigidbody2D _rigidbody2D;
+    private Animator _animator;
+    private AudioSource _audioSource;
+    private SpriteRenderer _spriteRenderer;
+    
+    [Header("Text")]
+    public TMP_Text flowersText;
 
     [SerializeField]
     private bool isJumping;
+    
     [SerializeField]
     private float jumpTimer;
-    public float jumpTime;
+    public float jumpTime = 0.5f;
+    
+    public bool isUpsideDown;
+    
+    [Header("Audio")]
+    public AudioClip jumpSound;
+    public AudioClip flowerPickupSound;
+    
+    [Header("Collectables")]
+    private int flowersCollected = 0;
+
 
     private void Start()
     {
         _input = GetComponent<InputActions>();
         _rigidbody2D = GetComponent<Rigidbody2D>();
+        _animator = GetComponent<Animator>();
+        _audioSource = GetComponent<AudioSource>();
+        _spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     private void Update()
@@ -35,6 +55,7 @@ public class PlayerController : MonoBehaviour
             isJumping = true;
             jumpTimer = jumpTime;
             _rigidbody2D.linearVelocityY = jumpSpeed * Mathf.Sign(Physics2D.gravity.y) *-1;
+            _audioSource.PlayOneShot(jumpSound); // Playing Jump Sound
         }
         if (isJumping && _input.Jump)
         {
@@ -53,6 +74,10 @@ public class PlayerController : MonoBehaviour
         {
             isJumping = false;
         }
+        
+        flowersText.text = flowersCollected.ToString();
+        
+        UpdateAnimation();
     }
 
     private void OnDrawGizmos()
@@ -70,6 +95,65 @@ public class PlayerController : MonoBehaviour
         else
         {
             _rigidbody2D.linearVelocityX = _input.Horizontal * moveSpeed;
+        }
+    }
+
+    private void UpdateAnimation()
+    {
+        // Animations
+        if (playerIsGrounded)
+        {
+            if (_input.Horizontal != 0)
+            {
+                _animator.Play("Player_Walk");
+            }
+            else
+            {
+                _animator.Play("Player_Idle");
+            }
+        }
+        else
+        {
+            if (_rigidbody2D.linearVelocityY > 0)
+            {
+                _animator.Play("Player_Jump");
+            }
+            
+            
+        }
+        
+        // Sprite facing
+        if (_input.Horizontal != 0)
+        {
+            if (_input.Horizontal < 0) // Fix when upside down
+            {
+                _spriteRenderer.flipX = true;
+            }
+            else
+            {
+                _spriteRenderer.flipX = false;
+            }
+        }
+
+        if (isUpsideDown)
+        {
+            _spriteRenderer.flipY = true;
+        }
+        else
+        {
+            _spriteRenderer.flipY = false;
+        }
+        
+        
+    }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Flower"))
+        {
+            flowersCollected++;
+            _audioSource.PlayOneShot(flowerPickupSound);
+            Destroy(other.gameObject);
         }
     }
 }

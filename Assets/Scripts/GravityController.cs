@@ -5,10 +5,17 @@ public class GravityController : MonoBehaviour
 {
     public float gravitySwitchTime = 20.0f;
     public float gravityTimer = 0f;
+    
+    private PlayerController _playerController;
+    
+    public AudioClip gravitySwitchSound;
+    
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         gravityTimer = gravitySwitchTime;
+        _playerController = GameObject.Find("Player").GetComponent<PlayerController>(); //Reference to the playercontroller script which lies within the player object.
     }
 
     // Update is called once per frame
@@ -19,6 +26,8 @@ public class GravityController : MonoBehaviour
         {
             Physics2D.gravity *= -1;
             gravityTimer = gravitySwitchTime;
+            _playerController.isUpsideDown = !_playerController.isUpsideDown; // Sets the players upside down status to the opposite
+            _playerController.GetComponent<AudioSource>().PlayOneShot(gravitySwitchSound);
         }
     }
 }

@@ -1,0 +1,2568 @@
+fileFormatVersion: 2
+guid: 373a178155636094eb2a2b409ec26467
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4550360665665450213
+    second: PeaberryMono_0
+  - first:
+      213: -114833921010483124
+    second: PeaberryMono_1
+  - first:
+      213: 2144230145062033147
+    second: PeaberryMono_2
+  - first:
+      213: 4360374114075052676
+    second: PeaberryMono_3
+  - first:
+      213: -204246281666191201
+    second: PeaberryMono_4
+  - first:
+      213: -7835112850520898630
+    second: PeaberryMono_5
+  - first:
+      213: 4475282579005820222
+    second: PeaberryMono_6
+  - first:
+      213: 2106860404592180454
+    second: PeaberryMono_7
+  - first:
+      213: 2816341322902011575
+    second: PeaberryMono_8
+  - first:
+      213: -851053789623407048
+    second: PeaberryMono_9
+  - first:
+      213: -3391780071300611293
+    second: PeaberryMono_10
+  - first:
+      213: 7855355327881430803
+    second: PeaberryMono_11
+  - first:
+      213: -8025542081773948507
+    second: PeaberryMono_12
+  - first:
+      213: 8567432179254926527
+    second: PeaberryMono_13
+  - first:
+      213: 5753076834395749659
+    second: PeaberryMono_14
+  - first:
+      213: -226770818146482940
+    second: PeaberryMono_15
+  - first:
+      213: 7651883111773465474
+    second: PeaberryMono_16
+  - first:
+      213: -6577483775175806476
+    second: PeaberryMono_17
+  - first:
+      213: 5577512857411105790
+    second: PeaberryMono_18
+  - first:
+      213: -3666970737063692568
+    second: PeaberryMono_19
+  - first:
+      213: -8978891442053361159
+    second: PeaberryMono_20
+  - first:
+      213: 5489814755692231341
+    second: PeaberryMono_21
+  - first:
+      213: 3724340588954688501
+    second: PeaberryMono_22
+  - first:
+      213: 823158435468286639
+    second: PeaberryMono_23
+  - first:
+      213: 8663677219576703814
+    second: PeaberryMono_24
+  - first:
+      213: -2172995863731527764
+    second: PeaberryMono_25
+  - first:
+      213: 9097814080977953970
+    second: PeaberryMono_26
+  - first:
+      213: -5773067588017568688
+    second: PeaberryMono_27
+  - first:
+      213: 6887841606737299904
+    second: PeaberryMono_28
+  - first:
+      213: -1216642710651751774
+    second: PeaberryMono_29
+  - first:
+      213: 4171171725623050095
+    second: PeaberryMono_30
+  - first:
+      213: -1137280109443963531
+    second: PeaberryMono_31
+  - first:
+      213: -7717289151109103550
+    second: PeaberryMono_32
+  - first:
+      213: -6839162659969969159
+    second: PeaberryMono_33
+  - first:
+      213: 7618658553558567527
+    second: PeaberryMono_34
+  - first:
+      213: -3990767409921828821
+    second: PeaberryMono_35
+  - first:
+      213: 3125292514157095967
+    second: PeaberryMono_36
+  - first:
+      213: 8281896279670854918
+    second: PeaberryMono_37
+  - first:
+      213: -2156877408611317374
+    second: PeaberryMono_38
+  - first:
+      213: 3753899476003617176
+    second: PeaberryMono_39
+  - first:
+      213: -2494400526689000225
+    second: PeaberryMono_40
+  - first:
+      213: -7872107636948297455
+    second: PeaberryMono_41
+  - first:
+      213: 5183847812660253316
+    second: PeaberryMono_42
+  - first:
+      213: 3003717612684669687
+    second: PeaberryMono_43
+  - first:
+      213: 4230905093034993284
+    second: PeaberryMono_44
+  - first:
+      213: 9109633831858666349
+    second: PeaberryMono_45
+  - first:
+      213: 4651579026190037965
+    second: PeaberryMono_46
+  - first:
+      213: -2280256837301730266
+    second: PeaberryMono_47
+  - first:
+      213: 3061071559081874666
+    second: PeaberryMono_48
+  - first:
+      213: -8932487184239591517
+    second: PeaberryMono_49
+  - first:
+      213: -511996651506715471
+    second: PeaberryMono_50
+  - first:
+      213: -8655517963098517200
+    second: PeaberryMono_51
+  - first:
+      213: -8146059982416082100
+    second: PeaberryMono_52
+  - first:
+      213: -6195046813995696264
+    second: PeaberryMono_53
+  - first:
+      213: 1834048882700228703
+    second: PeaberryMono_54
+  - first:
+      213: -483431577032323254
+    second: PeaberryMono_55
+  - first:
+      213: 3697006143646797334
+    second: PeaberryMono_56
+  - first:
+      213: 7188375236012671445
+    second: PeaberryMono_57
+  - first:
+      213: 2344287931359676644
+    second: PeaberryMono_58
+  - first:
+      213: 8781769199181684835
+    second: PeaberryMono_59
+  - first:
+      213: 5567148480465795145
+    second: PeaberryMono_60
+  - first:
+      213: 2831419911712123776
+    second: PeaberryMono_61
+  - first:
+      213: 412439495504644066
+    second: PeaberryMono_62
+  - first:
+      213: -8742681324273049843
+    second: PeaberryMono_63
+  - first:
+      213: -4879188161056953420
+    second: PeaberryMono_64
+  - first:
+      213: -7388148610363635683
+    second: PeaberryMono_65
+  - first:
+      213: -5117328815891313620
+    second: PeaberryMono_66
+  - first:
+      213: 6996161287812664471
+    second: PeaberryMono_67
+  - first:
+      213: -2209959982787145678
+    second: PeaberryMono_68
+  - first:
+      213: 2848802977960601980
+    second: PeaberryMono_69
+  - first:
+      213: -3777796604190310083
+    second: PeaberryMono_70
+  - first:
+      213: 4069401423939755175
+    second: PeaberryMono_71
+  - first:
+      213: 3254899226074301596
+    second: PeaberryMono_72
+  - first:
+      213: -1278026780952948007
+    second: PeaberryMono_73
+  - first:
+      213: -5954246111937301382
+    second: PeaberryMono_74
+  - first:
+      213: -1120289716378633539
+    second: PeaberryMono_75
+  - first:
+      213: 3009703241283902699
+    second: PeaberryMono_76
+  - first:
+      213: 6010369449653092924
+    second: PeaberryMono_77
+  - first:
+      213: -7005698581680239763
+    second: PeaberryMono_78
+  - first:
+      213: -4105111989535589147
+    second: PeaberryMono_79
+  - first:
+      213: -2454035341377360956
+    second: PeaberryMono_80
+  - first:
+      213: 5952005611255155292
+    second: PeaberryMono_81
+  - first:
+      213: -3353865769537595566
+    second: PeaberryMono_82
+  - first:
+      213: -6749486745812902899
+    second: PeaberryMono_83
+  - first:
+      213: 5862453769906049334
+    second: PeaberryMono_84
+  - first:
+      213: -3418344090866036494
+    second: PeaberryMono_85
+  - first:
+      213: 5165215763235701374
+    second: PeaberryMono_86
+  - first:
+      213: 3872513798009048731
+    second: PeaberryMono_87
+  - first:
+      213: -1377256975928437914
+    second: PeaberryMono_88
+  - first:
+      213: 8269536119252673754
+    second: PeaberryMono_89
+  - first:
+      213: -1788927460198868038
+    second: PeaberryMono_90
+  - first:
+      213: -9104821688095935189
+    second: PeaberryMono_91
+  - first:
+      213: 8405462671585407342
+    second: PeaberryMono_92
+  - first:
+      213: -4009459131189322444
+    second: PeaberryMono_93
+  - first:
+      213: 166352106021623591
+    second: PeaberryMono_94
+  - first:
+      213: -7903584583582645067
+    second: PeaberryMono_95
+  - first:
+      213: 2509243075911458709
+    second: PeaberryMono_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PeaberryMono_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 147
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e036e4aae0262f30800000000000000
+      internalID: 4550360665665450213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 158
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4041024827086ef0800000000000000
+      internalID: -114833921010483124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 147
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf65b11d4f5d1cd10800000000000000
+      internalID: 2144230145062033147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 147
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a804d8729238c30800000000000000
+      internalID: 4360374114075052676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 147
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90a796c61f5a2df0800000000000000
+      internalID: -204246281666191201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 147
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab38a99ef56144390800000000000000
+      internalID: -7835112850520898630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 147
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dc2276bc56b1e30800000000000000
+      internalID: 4475282579005820222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 147
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec7d0710621d3d10800000000000000
+      internalID: 2106860404592180454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 131
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bef3d5f287a51720800000000000000
+      internalID: 2816341322902011575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 148
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e2fb066137034f0800000000000000
+      internalID: -851053789623407048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 153
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323c0eddef9fde0d0800000000000000
+      internalID: -3391780071300611293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 149
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31748de1d04d30d60800000000000000
+      internalID: 7855355327881430803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 148
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a13aed6ffb8f9090800000000000000
+      internalID: -8025542081773948507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 130
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc9db1cc22a5e670800000000000000
+      internalID: 8567432179254926527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 130
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dffa756e807df40800000000000000
+      internalID: 5753076834395749659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 135
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40544f274295adcf0800000000000000
+      internalID: -226770818146482940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b61141623f03a60800000000000000
+      internalID: 7651883111773465474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 130
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f130c00b5518b4a0800000000000000
+      internalID: -6577483775175806476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 131
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3b924946e476d40800000000000000
+      internalID: 5577512857411105790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 131
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6f0970b8d4c1dc0800000000000000
+      internalID: -3666970737063692568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f15d9f3ec1946380800000000000000
+      internalID: -8978891442053361159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 131
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daabbbb1f6dbf2c40800000000000000
+      internalID: 5489814755692231341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 131
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb963388048fa330800000000000000
+      internalID: 3724340588954688501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_23
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 132
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa14fb5c327c6b00800000000000000
+      internalID: 823158435468286639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 130
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b638177809b3870800000000000000
+      internalID: 8663677219576703814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf93e366c7f7d1e0800000000000000
+      internalID: -2172995863731527764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 115
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4ec3154bde14e70800000000000000
+      internalID: 9097814080977953970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 115
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05444ef9d91f1efa0800000000000000
+      internalID: -5773067588017568688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_28
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 115
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c98bbea277869f50800000000000000
+      internalID: 6887841606737299904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 115
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2b80596ed9d1fe0800000000000000
+      internalID: -1216642710651751774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_30
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 115
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f3aeaa59af2e930800000000000000
+      internalID: 4171171725623050095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 115
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575a97a14c19730f0800000000000000
+      internalID: -1137280109443963531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 115
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2408a2fa76ea6e490800000000000000
+      internalID: -7717289151109103550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 115
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3df53dbc96611a0800000000000000
+      internalID: -6839162659969969159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a89ddc699eab960800000000000000
+      internalID: 7618658553558567527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2857664f22fd98c0800000000000000
+      internalID: -3990767409921828821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 100
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c658dabf44f5b20800000000000000
+      internalID: 3125292514157095967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_37
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 100
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605196879c43fe270800000000000000
+      internalID: 8281896279670854918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_38
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 100
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28948abac6b3112e0800000000000000
+      internalID: -2156877408611317374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_39
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 100
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89978b53fa7881430800000000000000
+      internalID: 3753899476003617176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 100
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4a727dfeb126dd0800000000000000
+      internalID: -2494400526689000225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_41
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 100
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1199e0affc7a0c290800000000000000
+      internalID: -7872107636948297455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 100
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482dc43de1ab0f740800000000000000
+      internalID: 5183847812660253316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_43
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f277ad11495fa920800000000000000
+      internalID: 3003717612684669687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 85
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486edbc04c137ba30800000000000000
+      internalID: 4230905093034993284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_45
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 85
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bf0d584bbeb6e70800000000000000
+      internalID: 9109633831858666349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_46
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 85
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3f6bcaa7abd8040800000000000000
+      internalID: 4651579026190037965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_47
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 85
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62489ffdc76ea50e0800000000000000
+      internalID: -2280256837301730266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 85
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4502f5d5c1b7a20800000000000000
+      internalID: 3061071559081874666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_49
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 85
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af7ba67b3e690480800000000000000
+      internalID: -8932487184239591517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 85
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4b0c412c505e8f0800000000000000
+      internalID: -511996651506715471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_51
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 85
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031108e754c61e780800000000000000
+      internalID: -8655517963098517200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_52
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 85
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b801d0b9163fe80800000000000000
+      internalID: -8146059982416082100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 70
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ffed4deb5c60aa0800000000000000
+      internalID: -6195046813995696264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_54
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 70
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f589c0addb9d37910800000000000000
+      internalID: 1834048882700228703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_55
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 70
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f08c1ca818a49f0800000000000000
+      internalID: -483431577032323254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_56
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 70
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e018400876e4330800000000000000
+      internalID: 3697006143646797334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 70
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d100c6013d32c360800000000000000
+      internalID: 7188375236012671445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_58
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 70
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8cde7f375988020800000000000000
+      internalID: 2344287931359676644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_59
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 70
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360e0b01f8c1fd970800000000000000
+      internalID: 8781769199181684835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_60
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 70
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948f4060c0c724d40800000000000000
+      internalID: 5567148480465795145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_61
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 70
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ba19f78693b4720800000000000000
+      internalID: 2831419911712123776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 55
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e745e4398749b500800000000000000
+      internalID: 412439495504644066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_63
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 55
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f534208a1cba680800000000000000
+      internalID: -8742681324273049843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_64
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 55
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bba8e3f734a94cb0800000000000000
+      internalID: -4879188161056953420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_65
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 55
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18ca73abf5087990800000000000000
+      internalID: -7388148610363635683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_66
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 55
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c8de10e889bf8b0800000000000000
+      internalID: -5117328815891313620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_67
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 55
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cc96fbf9b571160800000000000000
+      internalID: 6996161287812664471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_68
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 55
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230d422ca15a451e0800000000000000
+      internalID: -2209959982787145678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_69
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 55
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79aa60073bf88720800000000000000
+      internalID: 2848802977960601980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_70
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 55
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d314f8d0102929bc0800000000000000
+      internalID: -3777796604190310083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acd562d80b697830800000000000000
+      internalID: 4069401423939755175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_72
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 40
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c944ad5d999bb2d20800000000000000
+      internalID: 3254899226074301596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_73
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d21ddbf969834ee0800000000000000
+      internalID: -1278026780952948007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_74
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74f9b845b44e5da0800000000000000
+      internalID: -5954246111937301382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_75
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba7ab1407ee370f0800000000000000
+      internalID: -1120289716378633539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_76
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 42
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec9110e62d94c920800000000000000
+      internalID: 3009703241283902699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_77
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 43
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32ce6f8b2f196350800000000000000
+      internalID: 6010369449653092924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_78
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 43
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bcd7bf142c6ce90800000000000000
+      internalID: -7005698581680239763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_79
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 43
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecb8843566b707c0800000000000000
+      internalID: -4105111989535589147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_80
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 43
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cba2faebd381fdd0800000000000000
+      internalID: -2454035341377360956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 28
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5aceff7195c99250800000000000000
+      internalID: 5952005611255155292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_82
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2579e562adca471d0800000000000000
+      internalID: -3353865769537595566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_83
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 16
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c5d93a0910552a0800000000000000
+      internalID: -6749486745812902899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_84
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 28
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6315663a4ae9b5150800000000000000
+      internalID: 5862453769906049334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_85
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 17
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0dfd7192a9f80d0800000000000000
+      internalID: -3418344090866036494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_86
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 28
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7289e3ce588ea740800000000000000
+      internalID: 5165215763235701374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_87
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 28
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ec02628ceedb530800000000000000
+      internalID: 3872513798009048731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_88
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6635b51d31003ece0800000000000000
+      internalID: -1377256975928437914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_89
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 28
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4615d594b43c270800000000000000
+      internalID: 8269536119252673754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_90
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 19
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb97edf3f37c27e0800000000000000
+      internalID: -1788927460198868038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_91
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 28
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25f4c10aec25a180800000000000000
+      internalID: -9104821688095935189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_92
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 28
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6177a804c336a470800000000000000
+      internalID: 8405462671585407342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_93
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 20
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d9308c92a8b58c0800000000000000
+      internalID: -4009459131189322444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_94
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7279e0beb500f4200800000000000000
+      internalID: 166352106021623591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_95
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 28
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b48d4b32b3d05290800000000000000
+      internalID: -7903584583582645067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaberryMono_96
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 22
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f9fc2784f92d220800000000000000
+      internalID: 2509243075911458709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

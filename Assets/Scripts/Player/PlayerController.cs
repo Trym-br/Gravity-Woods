@@ -118,8 +118,6 @@ public class PlayerController : MonoBehaviour
             {
                 _animator.Play("Player_Jump");
             }
-            
-            
         }
         
         // Sprite facing
@@ -135,7 +133,7 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        if (isUpsideDown)
+        if (Physics2D.gravity.y > 0)
         {
             _spriteRenderer.flipY = true;
         }
@@ -143,8 +141,6 @@ public class PlayerController : MonoBehaviour
         {
             _spriteRenderer.flipY = false;
         }
-        
-        
     }
 
     void OnTriggerEnter2D(Collider2D other)

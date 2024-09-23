@@ -26074,6 +26074,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5056077917683032467, guid: 7e212eed17b7903dc84a3011a0d367b5, type: 3}
+      propertyPath: jumpSpeed
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5056077917683032467, guid: 7e212eed17b7903dc84a3011a0d367b5, type: 3}
+      propertyPath: moveSpeed
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5056077917683032467, guid: 7e212eed17b7903dc84a3011a0d367b5, type: 3}
       propertyPath: flowersText
       value: 
       objectReference: {fileID: 276011561}

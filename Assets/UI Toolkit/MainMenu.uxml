@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/MainMenuStyle.uss?fileID=7433441132597879392&amp;guid=fdad1dcd1d32c34aca32f79b6911445d&amp;type=3#MainMenuStyle" />
+    <ui:Label text="Gravity Woods&#10;" style="-unity-font-definition: url(&quot;project://database/Assets/TextMesh%20Pro/Fonts/Peaberry%20Monospace/PeaberryMono.otf?fileID=12800000&amp;guid=b4b805bf93b21c048aafd14022cc6ffa&amp;type=3#PeaberryMono&quot;); font-size: 40px; -unity-text-align: upper-center;" />
+    <ui:Button text="Play" class="button" style="-unity-font-definition: url(&quot;project://database/Assets/TextMesh%20Pro/Fonts/Thaleah_PixelFont/Materials/ThaleahFat_TTF.ttf?fileID=12800000&amp;guid=585188cdc4600544eb408bee749e4b3a&amp;type=3#ThaleahFat_TTF&quot;); font-size: 20px;" />
+    <ui:Button text="Quit&#10;" name="Quit" class="button" style="-unity-font-definition: url(&quot;project://database/Assets/TextMesh%20Pro/Fonts/Thaleah_PixelFont/Materials/ThaleahFat_TTF.ttf?fileID=12800000&amp;guid=585188cdc4600544eb408bee749e4b3a&amp;type=3#ThaleahFat_TTF&quot;); font-size: 20px;" />
+</ui:UXML>
